@@ -11,7 +11,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 ## Below will be a task list
 
-- [x] Add a header
-- [x] Add an image
-- [x] Add a code snippet
-- [x] Add a task list
+- [ ] Add a header
+- [ ] Add an image
+- [ ] Add a code snippet
+- [ ] Add a task list
